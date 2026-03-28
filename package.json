@@ -1,0 +1,10 @@
+{
+  "name": "condoflow-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot for condo management",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.20.0",
+    "@supabase/supabase-js": "^2.39.0",
+    "twilio": "^4.23.0"
+  }
+}
